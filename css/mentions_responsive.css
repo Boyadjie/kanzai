@@ -1,0 +1,52 @@
+@media screen and (max-width: 768px)
+{
+  a
+  {
+    color: #FA9500;
+    top: 0;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-top: 50px;
+  }
+}
+
+@media screen and (max-width: 426px)
+{
+  div.content
+  {
+    margin:0;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 375px)
+{
+  a
+  {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: #FA9500;
+    top: 35px;
+    left: 0;
+    padding-bottom: 20px;
+  }
+
+  h1
+  {
+    font-size: 30px;
+  }
+
+  h2
+  {
+    font-size: 25px;
+  }
+
+  p
+  {
+    font-size: 15px;
+  }
+}

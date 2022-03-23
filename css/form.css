@@ -1,0 +1,15 @@
+
+.response{
+    display:block;
+    text-align:center;
+    margin-bottom:50px;
+    font-family: 'publicSans-thin';
+}
+
+.response.green{
+    color: rgb(0, 255, 13);
+}
+
+.response.red{
+    color:red;
+}
